@@ -22,7 +22,7 @@ Scripting and Programming:
 C# scripts to control character movement, enemy behavior, and level transitions.
 Basic game logic implemented to handle player inputs and interactions.
 
-The objective of this project is to develop a functional 2D platformer game that provides an enjoyable experience for players. Through this project, the developers have gained practical experience in using Unity for game development, including character control, level design, and basic game mechanics. This foundational project demonstrates effective game development practices and serves as a stepping stone for more complex game development endeavors in the future.
+The objective of this project is to develop a functional 2D platformer game that provides an enjoyable experience for players. Through this project, I gained practical experience in using Unity for game development, including character control, level design, and basic game mechanics. This foundational project demonstrates effective game development practices and serves as a stepping stone for more complex game development endeavors in the future.
 
 
 
