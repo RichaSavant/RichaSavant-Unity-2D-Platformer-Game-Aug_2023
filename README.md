@@ -18,10 +18,6 @@ User Interface (UI):
 Basic in-game HUD (heads-up display) showing essential information such as score and health.
 Simple main menu for starting the game and navigating between levels.
 
-Audio Integration:
-Background music to create an immersive atmosphere.
-Sound effects for character actions like jumping and collecting items.
-
 Scripting and Programming:
 C# scripts to control character movement, enemy behavior, and level transitions.
 Basic game logic implemented to handle player inputs and interactions.
